@@ -1,23 +1,28 @@
-# Basic HTML Website
+# The Good Phone Foundation Website
 
-A simple, clean HTML website template.
+Official website for The Good Phone Foundation - helping people break free from Big Tech dependency.
 
-## Files
+## Overview
 
-- `index.html` - Main HTML file
-- `styles.css` - CSS stylesheet
-- `script.js` - JavaScript file for interactivity
-
-## How to Use
-
-1. Open `index.html` in your web browser
-2. Customize the content, colors, and styles as needed
-3. Add more pages or sections as your project grows
+This is a single-page website featuring:
+- Information about The Good Phone Foundation's mission and values
+- Programs and resources for digital independence
+- Details about thecloud.sucks guide
+- Contact information and ways to get involved
 
 ## Features
 
-- Responsive design
-- Clean navigation
-- Smooth scrolling
-- Basic styling with CSS
-- JavaScript for interactivity
+- Fully responsive design
+- Modern, accessible UI
+- Dark theme with gradient backgrounds
+- Mobile-friendly navigation
+- Contact form
+- Smooth scrolling between sections
+
+## Deployment
+
+This site is deployed via GitHub Pages at: https://goodphonefoundation.github.io/website/
+
+## License
+
+© 2025 The Good Phone Foundation
