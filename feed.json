@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "goodphone foundation",
+    "description": "",
+    "home_page_url": "https://goodphone.foundation",
+    "feed_url": "https://goodphone.foundation/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dominic Gingras"
+    },
+    "items": [
+    ]
+}

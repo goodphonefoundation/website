@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://goodphone.foundation/sitemap.xml
